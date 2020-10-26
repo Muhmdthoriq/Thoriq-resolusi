@@ -1,4 +1,6 @@
 Rencana Thoriq
 - Bisa php
+  * nambah framework
+  * nambah bodoamat
 - BIsa laravel
 - Bisa frontend
