@@ -1,0 +1,4 @@
+Rencana Thoriq
+- Bisa php
+- BIsa laravel
+- Bisa frontend
