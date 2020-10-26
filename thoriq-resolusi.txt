@@ -1,0 +1,4 @@
+Resolusi Gua kedepan nya adalah 
+- Membuat web perusahaan 
+- Membuat login dengan php
+- Membuat Html di komputer
