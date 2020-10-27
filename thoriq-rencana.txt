@@ -4,3 +4,4 @@ Rencana Thoriq
   * nambah bodoamat
 - BIsa laravel
 - Bisa frontend
+- Bisa bikin apk
