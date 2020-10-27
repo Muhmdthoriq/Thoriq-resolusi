@@ -6,3 +6,4 @@ Rencana Thoriq
 - Bisa frontend
 - Bisa bikin apk
 - Data structural
+- Nambah data dina
