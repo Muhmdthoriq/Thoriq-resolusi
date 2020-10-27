@@ -7,3 +7,4 @@ Rencana Thoriq
 - Bisa bikin apk
 - Data structural
 - Nambah data dina
+- Nambah data gua
