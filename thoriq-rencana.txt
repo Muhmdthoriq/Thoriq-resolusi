@@ -8,3 +8,4 @@ Rencana Thoriq
 - Data structural
 - Nambah data dina
 - Nambah data gua
+
